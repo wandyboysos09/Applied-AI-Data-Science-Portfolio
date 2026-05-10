@@ -2,7 +2,7 @@
 
 ### **Hybrid XGBoost–LSTM Model • 92.55% Accuracy**
 
-A high‑frequency cryptocurrency forecasting system that combines deep learning and gradient boosting to predict ETH‑USD price movements with 92.55% directional accuracy. This project includes full data engineering, hybrid modeling, backtesting, and an interactive Streamlit dashboard for real‑time exploration.
+A high‑frequency cryptocurrency forecasting system that combines deep learning and gradient boosting to predict ETH‑USD price movements with **92.55% directional accuracy**. This project includes full data engineering, hybrid modeling, backtesting, and an interactive Streamlit dashboard for real‑time exploration.
 
 ## **🚀 Executive Summary**
 
