@@ -1,16 +1,14 @@
-**AI-Driven Hospital Resilience: A Unified ML Framework**
 
+# **Quantifying the Operational and Economic Impact of Predictive Analytics in the NHS**
 
-_Quantifying the Operational and Economic Impact of Predictive Analytics in the NHS_
-
-The Value Proposition
+### **The Value Proposition**
 
 The NHS is currently facing a "Black Alert" crisis, with occupancy rates frequently exceeding 95%. This project moves beyond theoretical AI to provide a Unified Machine Learning Framework that converts clinical data into hospital capacity.
 
 By predicting three critical patient outcomes—ICU Deterioration, Length of Stay (LOS), and Readmission—this framework recovers 34,340 bed-days annually, providing a massive buffer against operational uncertainty.
 
 
-**The "Bottom Line" (Annual Impact)**
+### **The "Bottom Line" (Annual Impact)**
 
 This framework bridges the gap between predictive accuracy and hospital sustainability by recovering 34,340 bed-days annually. Through gold-standard performance—including a 0.9548 AUROC for ICU escalation and a 1.41-day MAE for Length of Stay—the system identifies £56.45m in potential annual cost-avoidance. Most significantly, this capacity release is equivalent to adding 94 virtual beds to a Trust’s infrastructure without capital expenditure, effectively mitigating the 'Black Alert' crisis through data-driven resilience.
 
@@ -18,7 +16,7 @@ This framework bridges the gap between predictive accuracy and hospital sustaina
 
 
 
-**Technical Sophistication**
+### **Technical Sophistication**
 
 This isn't a "Black Box" solution. It is a robust MLOps pipeline designed for clinical trust and transparency.
 
@@ -34,7 +32,7 @@ Explainable AI (XAI): Integrated SHAP architecture to provide clinicians with pa
 
 
 
-**Governance & Ethics**
+### **Governance & Ethics**
 
 Built for real-world deployment in a public healthcare setting:
 
