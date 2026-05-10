@@ -99,3 +99,19 @@ View real‑time ETH‑USD predictions
 Compare model outputs
 
 Inspect backtesting results
+
+
+## **🧪 Reproducibility**
+
+All experiments use fixed random seeds
+
+Backtesting windows are logged
+
+Data preprocessing steps are fully deterministic
+
+
+## **👤 Author**
+
+### **Wande Sosina**
+
+MSc Applied Artificial Intelligence & Data Science
